@@ -10,6 +10,6 @@ Matkul      :Bahasa Pemprograman
 
 ## Langkah langkah penggunaan git
 
-* Download Git dahulu, dengan link berikut ini :[Click here](hhtps://git-scm.com/)
+* Download Git dahulu, dengan link berikut ini : [Click here](hhtps://git-scm.com/)
 ![Gambar Git SCM](picture/2-6.PNG)
 
