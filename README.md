@@ -13,3 +13,7 @@ Matkul      :Bahasa Pemprograman
 * Download Git dahulu, dengan link berikut ini : [Click here](https://git-scm.com/)
 ![Gambar Git SCM](picture/2-6.PNG)
 
+* Setelah file terdonwload, silahkan lakukan instalasi dengan reerensi berikut ini : [git instalation Guide](https://phoenixnap.com/kb/how-to-install-git-windows)
+
+
+
