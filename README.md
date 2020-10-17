@@ -14,7 +14,7 @@ Matkul      :Bahasa Pemprograman
 ![Gambar Git SCM](picture/2-6.PNG)
 
 * Setelah file terdonwload, silahkan lakukan instalasi dengan reerensi berikut ini : [git instalation Guide](https://phoenixnap.com/kb/how-to-install-git-windows)
-[git pict](picture/install-git)
+[git pict](picture/install-git.PNG)
 
 
 
