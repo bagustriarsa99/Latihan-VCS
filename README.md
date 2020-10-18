@@ -16,9 +16,10 @@ Matkul      :Bahasa Pemprograman
 * Setelah file terdonwload, silahkan lakukan instalasi dengan reerensi berikut ini : [git instalation Guide](https://phoenixnap.com/kb/how-to-install-git-windows)
 ![git pict](picture/install-git.PNG)
 
-* Setelah Instalasi selesai, buka *sofwer* GitBash pada menu di Windows, dan lakukan pengecekan Versi, dengan mengetik *syntax* berikut :
+* Setelah Instalasi selesai, buka *softwere* GitBash pada menu di Windows, dan lakukan pengecekan Versi, dengan mengetik *syntax* berikut :[git instalation guide] 
+> git --version
 
-git --bash
+![git pict](picture/git-version.PNG)
 
 
 
