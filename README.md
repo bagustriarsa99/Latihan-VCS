@@ -37,9 +37,14 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/git-code.PNG)
 
-* Setelah *Link URL* git kita ter*copy*, Silahkan buka File Explirer pada Windows, kemudian pilih folder dimana kita akan men*donwload*nRepository dari GitHub ke lokal. Kemudian Klik Kanan, pilih **Git Bash Here.
+* Setelah *Link URL* git kita ter*copy*, Silahkan buka File Explirer pada Windows, kemudian pilih folder dimana kita akan men*donwload*nRepository dari GitHub ke lokal. Kemudian Klik Kanan, pilih **Git Bash Here**.
 
 ![git pict](picture/git-folder.PNG)
+
+* Pop *Up Command Promot* (CMD) akan terluka. pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
+> git clone [URL] pada contohnya, saya akan memasukkan *git clone https://github.com/bagustriarsa99/Latihan-VCS.git*
+
+![git pict](picture/2-5.PNG)
 
 
 
