@@ -27,7 +27,7 @@ Matkul      :Bahasa Pemprograman
 
 * Jika akun GitHub sudah selesai dibuat dan terverivikasi, proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini. 
 
-![git pict](picture/latihan VCS.PNG)
+![git pict](picture/latihanVCS.PNG)
 
 
 
