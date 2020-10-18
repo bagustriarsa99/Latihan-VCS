@@ -29,6 +29,9 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/latihanVCS.PNG)
 
+* Jika repositiry sudah didibuat maka akan muncul tampilan seprti dibawah ini.
+
+![git pict](picture/2-1.PNG)
 
 
 
