@@ -51,5 +51,9 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/2-3.PNG)
 
+* Saat ini kita sudah masuk kedalam folder *LatihanVCS*. Silahkan edit file **README.md** yang ada di File Explorer. Bisa menggunakan Texs Editor (Sublime Texs, Notepad, Notpad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file.md (Markdown) bisa di lihat di Link berikut ini : 
+
+![git pict](picture/git-edit-readme.PNG)
+
 
 
