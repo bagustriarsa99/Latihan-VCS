@@ -87,6 +87,6 @@ Hal diatas adalah Cara langkah-langkah penggunaan Git
 
 # BAGUS TRIARSA - 312010202 - TI.20.B.1 -TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA 
 
-![git pict](picture/upb.PNG)
+![git pict](picture/logoupb.png)
 
 
