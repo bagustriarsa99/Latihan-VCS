@@ -63,5 +63,30 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/git-add.PNG)
 
+* Setelah selesai melakukan git add, langkah berikutnya kita akan melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
+
+> git commit "Update READMY.md"
+
+![git picct](picture/2-5.PNG)
+
+* Git *commit* telah selesai dilakukan. Untuk saat ini akan melakukan 
+Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut ini :
+
+> git push 
+
+![git pict](picture/git-push.PNG)
+
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perunahan yang telah di *commit* dan push dari remote.
+
+![git pict](picture/git-baru.PNG)
+
+Hal diatas adalah Cara langkah-langkah penggunaan Git 
+
+
+## SEKIAN DAN TERIMA KASIH
+
+# BAGUS TRIARSA - 312010202 - TI.20.B.1 -TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA 
+
+![git pict](picture/logo-Universitas-Pelita-Bangsa.PNG)
 
 
