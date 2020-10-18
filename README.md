@@ -55,5 +55,13 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/git-edit-readme.PNG)
 
+ Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+S** atau file -> save
+
+ * Langkah selanjutnya setelah file disimpan kita kembali pada App Git Bash (CMD) ketik pada Git Bash seperti berikut ini : 
+
+> git add .
+
+![git pict](picture/git-add.PNG)
+
 
 
