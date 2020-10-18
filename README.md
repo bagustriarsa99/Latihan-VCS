@@ -46,5 +46,10 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/2-5.PNG)
 
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *Latihan VCS* dengan mengetikkan *syntax* berikut :
+>cd LatihanVCS/
+
+![git pict](picture/2-3.PNG)
+
 
 
