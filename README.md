@@ -37,5 +37,9 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/git-code.PNG)
 
+* Setelah *Link URL* git kita ter*copy*, Silahkan buka File Explirer pada Windows, kemudian pilih folder dimana kita akan men*donwload*nRepository dari GitHub ke lokal. Kemudian Klik Kanan, pilih **Git Bash Here.
+
+![git pict](picture/git-folder.PNG)
+
 
 
