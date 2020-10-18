@@ -33,5 +33,9 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/2-1.PNG)
 
+* Pembuatan akun dan repository pada GitHub telah selesai, saat ini akan kita lakukan untuk *me-remote* reposytory GitBash lokal. Bagaimana caranya? Langkah pertama kita harus menyalin *link* *URL* git kita di GitHub, dengan cara tekan tombol code lalu klik *Copy*
+
+![git pict](picture/git-code.PNG)
+
 
 
