@@ -21,6 +21,10 @@ Matkul      :Bahasa Pemprograman
 
 ![git pict](picture/git-version.PNG)
 
+* Buat akun https://github.com/, seperti contoh dibawah ini. Dan lakukan *verifikasi* akun melalui email yang sudah terdaftar.
+
+![git pict](picture/git-user.PNG)
+
 
 
 
